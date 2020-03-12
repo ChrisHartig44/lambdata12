@@ -1,5 +1,5 @@
 import setuptools
-REQUIRED = [pandas
+REQUIRED = ['pandas']
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
@@ -18,3 +18,4 @@ with open("README.md", "r") as fh:
     "Operating System :: OS Independent",
     ]
     )
+
