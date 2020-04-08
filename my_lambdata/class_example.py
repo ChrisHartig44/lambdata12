@@ -9,5 +9,3 @@ class Example:
 
         """
         return self.n - 20
-
-2+2=4
